@@ -26,4 +26,4 @@ Data accessed by the extension is used only to display QWeb template relationshi
 
 ## Contact
 
-For privacy questions, contact: [your email address]
+For privacy questions, contact: muhmdsubhan.mse@gmail.com
